@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Example Feed</title>
+  <link href="http://example.org/"/>
+  <updated>2023-02-18T10:31:00Z</updated>
+  <author>
+    <name>nepaljohn21</name>
+  </author>
+  <id>https://nepaljohn21.github.io/36-Lukena/users/nepaljohn21</id>
+
+  <entry>
+    <title>NepalJohn</title>
+    <id>https://nepaljohn21.github.io/36-Lukena/users/nepaljohn21</id>
+    <updated>2023-02-18T10:34:00Z/updated>
+    <summary>NEPALJOHN21</summary>
+  </entry>
+
+</feed>
